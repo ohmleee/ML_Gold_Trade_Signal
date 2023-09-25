@@ -1,4 +1,4 @@
-# ML_Gold_Trade_Signal
+# Machine Learning for Gold trading signal prediction
 This project is a part of the "Introduction to Business Analytics and Data Science" course and aims to explore the application of machine learning techniques in predicting gold trading signals.
 
 We utilized daily price data for gold from Yahoo Finance.
